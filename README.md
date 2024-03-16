@@ -47,7 +47,7 @@ Special attention has been given to data quality and mixture in this project:
 
 The project includes a visualization of the predicted sentiment distribution using a bar plot. This provides insights into the proportion of positive and negative sentiments in the analyzed tweets.
 
-![Sentiment Distribution](path/to/your/image.png)
+![Sentiment Distribution](minispark_predicted_sentiment_dist.png)
 
 ## Requirements
 
